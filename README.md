@@ -63,6 +63,6 @@ MIT License - Because sharing is caring, and we're not monsters.
 
 ---
 
-Built with 💖 and an unhealthy amount of caffeine by [Your Name]
+Built with 💖 and an unhealthy amount of caffeine by [Spoorthi Veeresh Kumar]
 
 *Remember: Past performance doesn't guarantee future results, but at least this dashboard makes losing money look pretty.*
